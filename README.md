@@ -25,7 +25,8 @@ sudo apt-get install -y nodejs
 ```
 After installing Node.js, you'll need to install these 2 dependencies with the commands:
 ```
-npm install discord.js
+npm install discord.js@11.6.2
+npm list discord.js
 npm install xmlhttprequest
 ```
 Modify the config.json to fit with your currency.
